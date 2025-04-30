@@ -22,3 +22,5 @@ My interests lie in Robotics and Software, with hands-on experience in developin
 I have also gained valuable experience during my internship at AMD, where I contributed to hardware verification and developed solutions in Python, Perl, and Tcl for system integration 💻.
 
 Currently, I’m exploring career opportunities in both software and hardware roles, with a strong interest in robotics, AI, and embedded systems 🌐.
+
+![](https://komarev.com/ghpvc/?username=ja-liao)
