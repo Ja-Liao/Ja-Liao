@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=ja-liao)
+
 I’m a 4th-year undergraduate student at the University of Toronto studying Robotics🤖 and AI. I’m expected to graduate in May 2025 🎓.
 
 My interests lie in Robotics and Software, with hands-on experience in developing and optimizing robotic systems 🛠. I’ve worked on projects involving SLAM algorithms, ROS2, sensor integration, and robotic control systems. My focus is on real-time performance optimization and algorithm development to ensure efficient, autonomous operation 🚗.
