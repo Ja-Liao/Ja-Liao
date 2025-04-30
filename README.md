@@ -23,4 +23,9 @@ I have also gained valuable experience during my internship at AMD, where I cont
 
 Currently, I’m exploring career opportunities in both software and hardware roles, with a strong interest in robotics, AI, and embedded systems 🌐.
 
+<p align='left'>
+   <a href="https://github.com/ja-liao/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja-liao&layout=compact"/></a>
+</p>
+
 ![](https://komarev.com/ghpvc/?username=ja-liao)
